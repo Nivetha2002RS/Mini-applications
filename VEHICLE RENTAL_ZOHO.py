@@ -2,7 +2,7 @@ import os
 import random as rd
 vehicles = [{'type':'bike','name':'bullet','id':'V1','rate':50,'stock':3},{'type':'car','name':'audi','id':'V2','rate':120,'stock':1}]
 history = list()
-users = {'atharsh':'1234','ashwin':'1234'}
+users = {'user1':'1234','user2':'1234'}
 user_vech = {'atharsh':'none'}
 cart = list()
 def view_vechile():
